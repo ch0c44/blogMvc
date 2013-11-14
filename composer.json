@@ -3,7 +3,6 @@
     {
         "slim/slim": "2.*",
         "gabordemooij/redbean": "dev-master",
-        "twig/twig": "1.15.*@dev",
-        "twitter/bootstrap": "3.0.*@dev"
+        "twig/twig": "1.15.*@dev"
     }
 }
